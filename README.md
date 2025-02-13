@@ -34,15 +34,15 @@ Example Outputs:
 
 Zigzag Nanoribbon:
 
-DOS for pure carbon (C) and silicon-doped (C-Si) systems.
+-DOS for pure carbon (C) and silicon-doped (C-Si) systems.
 
-Plot of DOS vs. energy for the zigzag configuration.
+-Plot of DOS vs. energy for the zigzag configuration.
 
 Armchair Nanoribbon:
 
-DOS for pure carbon (C) and silicon-doped (C-Si) systems.
+-DOS for pure carbon (C) and silicon-doped (C-Si) systems.
 
-Plot of DOS vs. energy for the armchair configuration.
+-Plot of DOS vs. energy for the armchair configuration.
 
 ## Dependencies
 
